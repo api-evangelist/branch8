@@ -1,0 +1,29 @@
+# Branch8
+
+> Branch8 is a digital solutions and managed contracting company headquartered in Hong Kong with operations across Asia (Singapore, Taiwan, Vietnam, Malaysia, Indonesia, Philippines). We provide managed technical squads, e-commerce implementation, CRM/CDP strategy, and AI-augmented operations for mid-market to enterprise companies.
+
+## Services
+
+- [E-Commerce Implementation](https://branch8.com/services/e-commerce): Adobe Commerce, Shopify Plus, marketplace operations (Shopee, Lazada, Amazon)
+- [CRM & CDP Strategy](https://branch8.com/services/crm-cdp): Salesforce, HubSpot, Segment, mParticle, Braze, Dynamics 365
+- [Digital Product & Mobile](https://branch8.com/services/digital-product): React Native apps, AEM implementation, headless architecture
+- [AI & Automation](https://branch8.com/services/ai-automation): AI integration, workflow automation (n8n, Make, Windmill), intelligent operations
+- [Data Engineering](https://branch8.com/services/data-analytics): Snowflake, BigQuery, dbt, Fivetran, analytics platforms
+- [Managed Squads](https://branch8.com/services/managed-squads): Blended onshore/offshore technical teams on monthly retainer
+
+## Blog
+
+- [All Posts](https://branch8.com/posts): Technical articles on e-commerce, CRM/CDP, AI automation, managed teams, and cross-border operations in Asia
+
+## Company
+
+- Founded: 2015
+- Headquarters: Hong Kong
+- Operations: Hong Kong, Singapore, Taipei, Ho Chi Minh City, Kuala Lumpur, Batam, Manila
+- Team: ~90 across Branch8 and sister company Second Talent
+- Clients: Chow Tai Fook, Chow Sang Sang, Lacoste, Hong Kong International Airport, Hotai/Toyota, HKBN
+
+## Contact
+
+- Website: https://branch8.com
+- Email: hello@branch8.com

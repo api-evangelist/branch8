@@ -1,7 +1,19 @@
 aid: branch8
 name: Branch8
-description: Branch8 is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Branch8 is a digital solutions and managed contracting company headquartered
+  in Hong Kong with operations across Asia (Singapore, Taiwan, Vietnam, Malaysia,
+  Indonesia, and the Philippines). Founded in 2015, it provides managed technical
+  squads and blended onshore/offshore teams that deliver e-commerce
+  implementation (Adobe Commerce, Shopify Plus, and marketplace operations on
+  Shopee, Lazada, and Amazon), CRM and CDP strategy (Salesforce, HubSpot,
+  Segment, mParticle, Braze, Dynamics 365), digital product and mobile
+  engineering, AI and workflow automation (n8n, Make, Windmill), and data
+  engineering (Snowflake, BigQuery, dbt, Fivetran). Branch8 serves mid-market to
+  enterprise clients including Chow Tai Fook, Chow Sang Sang, Lacoste, Hong Kong
+  International Airport, Hotai/Toyota, and HKBN. It is a services firm rather than
+  an API producer and publishes no public developer API, but it does expose an
+  agent-native llms.txt describing its services.
 url: https://raw.githubusercontent.com/api-evangelist/branch8/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +21,55 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-yc-batch: S15
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://branch8.com/favicon.ico
 tags:
 - Company
+- E-Commerce
+- CRM
+- CDP
+- Managed Services
+- Digital Operations
+- Data Engineering
+- AI Automation
+- Asia-Pacific
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/branch8-domain-security.yml
+- type: Website
+  url: https://branch8.com
+- type: Blog
+  url: https://branch8.com/posts
+- type: Support
+  url: https://branch8.com/contact
+- type: TermsOfService
+  url: https://branch8.com/terms
+- type: PrivacyPolicy
+  url: https://branch8.com/privacy-policy
+- type: LLMsTxt
+  url: llms/branch8-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
